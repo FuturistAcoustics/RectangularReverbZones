@@ -13,8 +13,8 @@ RectangularReverbZones is a Unity plugin that allows for rectangular-shaped reve
 
 ### 1. Open the Demo Scene
 <div align="center">
-  <a href="Images\Image Classification Tutorial\Tut01.png" target="_blank">
-    <img src="Images\Image Classification Tutorial\Tut01.png"/>
+  <a href="Images\Tut01.png" target="_blank">
+    <img src="Images\Tut01.png"/>
   </a>
 </div>
 
@@ -22,8 +22,8 @@ RectangularReverbZones is a Unity plugin that allows for rectangular-shaped reve
 Audio Reverb Zones are the default option for reverb in Unity, so let's see what they're like for comparison. Disable the Rectangular Reverb Zones and enable the Not Needed Spherical Reverb Zones. Press play and press the 'C' key to play a clap SFX.
 
 <div align="center">
-  <a href="Images\Image Classification Tutorial\Tut02.png" target="_blank">
-    <img src="Images\Image Classification Tutorial\Tut02.png"/>
+  <a href="Images\Tut02.png" target="_blank">
+    <img src="Images\Tut02.png"/>
   </a>
 </div>
 
@@ -31,8 +31,8 @@ Audio Reverb Zones are the default option for reverb in Unity, so let's see what
 You can position the player outside of the room and reverb will still be applied!
 
 <div align="center">
-  <a href="Images\Image Classification Tutorial\Tut03.png" target="_blank">
-    <img src="Images\Image Classification Tutorial\Tut03.png"/>
+  <a href="Images\Tut03.png" target="_blank">
+    <img src="Images\Tut03.png"/>
   </a>
 </div>
 
@@ -40,8 +40,8 @@ You can position the player outside of the room and reverb will still be applied
 Now try out the Rectangular Reverb Zones. Disable the Not Needed Spherical Recerb Zones and enable the Rectangular Reverb Zones. Play the game and you will find that the Rectangular Reverb Zones use the same reverb presets yet do not have reverberation that bleeds out of the room.
 
 <div align="center">
-  <a href="Images\Image Classification Tutorial\Tut04.png" target="_blank">
-    <img src="Images\Image Classification Tutorial\Tut04.png"/>
+  <a href="Images\Tut04.png" target="_blank">
+    <img src="Images\Tut04.png"/>
   </a>
 </div>
 
@@ -49,7 +49,7 @@ Now try out the Rectangular Reverb Zones. Disable the Not Needed Spherical Recer
 You can add your own rectangular reverb zones via Audio > Rectangular Reverb Zones.
 
 <div align="center">
-  <a href="Images\Image Classification Tutorial\Tut05.png" target="_blank">
-    <img src="Images\Image Classification Tutorial\Tut05.png"/>
+  <a href="Images\Tut05.png" target="_blank">
+    <img src="Images\Tut05.png"/>
   </a>
 </div>
