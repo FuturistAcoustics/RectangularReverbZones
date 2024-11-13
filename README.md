@@ -53,3 +53,12 @@ You can add your own rectangular reverb zones via Audio > Rectangular Reverb Zon
     <img src="Images\Tut05.png"/>
   </a>
 </div>
+
+### 6. Add the RRZScript (V1.0.1)
+To help improve performance considerably, from version 1.0.1 it is required that any audio sources have the RRZScript attached to them. For an audio sources you add, simply drag RRZCheck into the inspector, like in the image below.
+
+<div align="center">
+  <a href="Images\Tut06.png" target="_blank">
+    <img src="Images\Tut06.png"/>
+  </a>
+</div>
